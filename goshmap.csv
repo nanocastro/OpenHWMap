@@ -1,0 +1,23 @@
+latitude,longitude,geometry,name,GOSH,status,type,url
+-12.024514,-77.0565978,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
+-30.1110841,-51.2377954,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
+-30.0328388,-51.2364578,Point,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,y,active,Non-academic,http://eitcha.org/
+6.2698761,-75.5659681,Point,Exploratorio,y,active,academic,www.parqueexplora.org/exploratorio
+-33.4411279,-70.6407933,Point,"Fernan Federici Research Group - PUC
+",y,active,academic,https://federicilab.org/
+19.4326077,-99.133208,Point,Interspecifics,y,active,artist,http://interspecifics.cc
+-34.5421289,-58.4444449,Point,"SensAR (Alejandro Nadra)
+",y,active,academic,https://sites.google.com/site/alejandrodnadra/
+-34.5711496,-58.4232966,Point,"Laura Olalde - Artista
+",y,active,artist,
+-32.8976057,-68.8534641,Point,"LabFD FRM-UTN
+",y,active,academic,http://frm.utn.edu.ar/labfd
+-33.443809,-70.650391,Point,"OpenBio UChile
+",y,active,academic,http://openbio.cl/
+6.2438932,-75.5575664,Point,Platohedro,y,active,Non-academic,http://platohedro.org/
+-37.87485339352928,-58.28247070312501,Point,Proyecto 'Vuela' - Drones Abiertos,y,active,Non-academic,https://osf.io/fscn4/
+-34.6098208,-58.3926061,Point,"ETER - R'lyeh hacklab
+",y,active,Non-academic,https://rlab.be
+-3.1365287,-55.0493375,Point,Rede InfoAmazonia,n,active,Non-academic,http://rede.infoamazonia.org/
+-33.435452502070085,-70.64620971679686,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
+-32.8834795,-68.8671970,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
