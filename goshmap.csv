@@ -1,4 +1,4 @@
-﻿latitude,longitude,geometry,name,GOSH,status,type,url
+﻿lat,long,geometry,name,GOSH,status,type,url
 -12.024514,-77.0565978,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
 -30.1110841,-51.2377954,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
 -30.0328388,-51.2364578,Point,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,y,active,Non-academic,http://eitcha.org/
